@@ -8,10 +8,10 @@
 	</parent>
 
 	<groupId>com.podio</groupId>
-	<artifactId>api</artifactId>
+	<artifactId>podio-client</artifactId>
 	<packaging>jar</packaging>
 
-	<name>api</name>
+	<name>podio-client</name>
 	<version>0.7.10-SNAPSHOT</version>
 	<description>The official Java wrapper for the Podio API</description>
 	<url>http://podio.com</url>
