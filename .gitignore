@@ -1,2 +1,7 @@
-/target
-/.settings
+target/
+bin/
+
+# SDK meta-files
+.classpath
+.project
+.settings
